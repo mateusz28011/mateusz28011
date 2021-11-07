@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a student of the last semester of computer science with a specialization in software engineering at the West Pomeranian University of Szczecin. I am currently writing my diploma work and looking for my first job as a web application developer. 
 
 ### Things I code with
 <p>
