@@ -1,5 +1,7 @@
 ### Hi there 👋
 I am a student of the last semester of computer science with a specialization in software engineering at the West Pomeranian University of Szczecin. I am currently writing my diploma work and looking for my first job as a web application developer. 
+<br/><br/>
+My favorite stack is React along with Django, but while studying during two engineering team projects, I also was writing backend in Express.js. My favorite place to write code is the backend :desktop_computer:
 
 ### Things I code with
 <p>
